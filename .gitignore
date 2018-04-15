@@ -2,3 +2,10 @@
 #############################
 test_32x32.mat
 train_32x32.mat
+
+#Ignore corpus files for tp2#
+#############################
+miniproject2/chorpus/sessiontune*
+allabcwrepeats_parsed
+buildset.sh
+temp.txt
