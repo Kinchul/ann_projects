@@ -10,4 +10,4 @@ allabcwrepeats_parsed
 buildset.sh
 temp.txt
 #Ignore final_dataset (300MB+)
-miniproject2/SavedData/ex4_final_dataset.txt
+ex4_final_dataset.txt
