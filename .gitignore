@@ -9,5 +9,9 @@ miniproject2/chorpus/sessiontune*
 allabcwrepeats_parsed
 buildset.sh
 temp.txt
-#Ignore final_dataset (300MB+)
+
+#Ignore large files (300MB+)
+#############################
 ex4_final_dataset.txt
+p_tensor.npy
+t_tensor.npy
